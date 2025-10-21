@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Russo One', sans-serif;
+    background-image: url('starrybg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    height: 100vh;
+    text-align: center;
+}
+
+.hello {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-pic {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid white;
+}
+
+p {
+    font-size: medium;
+    margin: 20px auto;
+}
+
+.email-link {
+    color: rgb(40, 129, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.poof {
+    display: none;
+}
+
+.magic {
+    color: rgb(27, 88, 255);
+}
+
+.gamer {
+    color: rgb(149, 0, 255);
+}
