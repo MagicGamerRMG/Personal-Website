@@ -137,7 +137,7 @@ hr {
 }
 
 .back-button a {
-    padding: 30px;
+    margin: 30px;
     font-size: 20px;
     color: rgb(141, 18, 255) !important;
     text-decoration: none;
