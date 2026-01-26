@@ -165,19 +165,19 @@ hr {
 }
 
 #htmlcard {
-    background-image: url("bg1.jpeg");
+    background-image: url("../media/bg1.jpeg");
 }
 
 #csscard {
-    background-image: url("bg2.jpeg");
+    background-image: url("../media/bg2.jpeg");
 }
 
 #bgcard {
-    background-image: url("bg3.jpeg");
+    background-image: url("../media/bg3.jpeg");
 }
 
 #apicard {
-    background-image: url("bg4.jpeg");
+    background-image: url("../media/bg4.jpeg");
 }
 
 
@@ -191,5 +191,5 @@ hr {
 }
 
 #pythoncard {
-    background-image: url("bg5.jpeg");
+    background-image: url("../media/bg5.jpeg");
 }
