@@ -1,4 +1,4 @@
-![Cloudflare Pages](https://img.shields.io/badge/Cf%20Pages-Cloudflare-orange?style=flat-square&logo=cloudflare)
+![Cloudflare Pages](https://img.shields.io/badge/CF%20Pages-Cloudflare-orange?style=flat-square&logo=cloudflare)
 ![Level](https://img.shields.io/badge/Beginner-Project-blue?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
