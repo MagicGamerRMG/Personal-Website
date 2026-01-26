@@ -1,2 +1,8 @@
-/              /index.html        200
-/:page         /pages/:page.html  200
+/                 /index.html        200
+
+/styles/*         /styles/:splat     200
+/js/*             /js/:splat         200
+/assets/*         /assets/:splat     200
+/images/*         /images/:splat     200
+
+/*                /pages/:splat.html 200
