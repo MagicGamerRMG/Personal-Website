@@ -1,8 +1,8 @@
-/                 /index.html        200
+/portfolio        /pages/portfolio.html 200
+/skills           /pages/skills.html    200
 
 /styles/*         /styles/:splat     200
 /js/*             /js/:splat         200
 /assets/*         /assets/:splat     200
 /images/*         /images/:splat     200
-
-/*                /pages/:splat.html 200
+/media/*          /media/:splat      200
