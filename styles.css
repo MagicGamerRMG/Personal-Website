@@ -54,7 +54,7 @@ p {
     color: rgb(149, 0, 255);
 }
 
-.porfoliopage,
+.portfoliopage,
 .skillspage {
     background-image: url('/media/starrybg.jpg');
     background-size: cover;
@@ -111,7 +111,7 @@ hr {
     margin: 20px 0;
 }
 
-.porfoliopage h1 {
+.portfoliopage h1 {
     font-size: 70px;
     margin-bottom: 10px;
     font-family: Orbitron, sans-serif;
@@ -165,19 +165,19 @@ hr {
 }
 
 #htmlcard {
-    background-image: url("../media/bg1.jpeg");
+    background-image: url("/media/bg1.jpeg");
 }
 
 #csscard {
-    background-image: url("../media/bg2.jpeg");
+    background-image: url("/media/bg2.jpeg");
 }
 
 #bgcard {
-    background-image: url("../media/bg3.jpeg");
+    background-image: url("/media/bg3.jpeg");
 }
 
 #apicard {
-    background-image: url("../media/bg4.jpeg");
+    background-image: url("/media/bg4.jpeg");
 }
 
 
@@ -191,5 +191,5 @@ hr {
 }
 
 #pythoncard {
-    background-image: url("../media/bg5.jpeg");
+    background-image: url("media/bg5.jpeg");
 }
