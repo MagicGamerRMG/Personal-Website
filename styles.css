@@ -160,6 +160,12 @@ p {
     background-position: center;
 }
 
+#nebuladocs {
+    background-image: url("/media/nebulabg.png");
+    background-size: cover;
+    background-position: center;
+}
+
 .server-card img {
     width: 100px;
     height: 100px;
